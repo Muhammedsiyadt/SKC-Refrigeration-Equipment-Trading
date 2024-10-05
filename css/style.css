@@ -1102,7 +1102,8 @@
 
 /*** Contact Start ***/
 .contact {
-    background: linear-gradient(rgba(21, 185, 217, 0.9), rgba(21, 185, 217, 0.9)), url(../img/SKC/logo.png);
+    /* background: linear-gradient(rgba(21, 185, 217, 0.9), rgba(21, 185, 217, 0.9)), url(../img/SKC/logo.png); */
+    background-color: white;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
